@@ -1,0 +1,80 @@
+GIT Commands 
+
+--Navigate to Your Project Directory
+cd /path/to/your/project
+
+--Git Setup 
+
+	#Set username
+	git config --global user.name "Your Name"  
+
+	#Set email
+	git config --global user.email
+	"youremail@example.com"
+
+	#Check configuration
+	git config --list
+
+--Create a Repository
+	--Initialize a local Repository
+
+	#Create a new  folder 
+	mkdir my-project 
+	cd my-project
+
+	#Initialize the Repository
+	git init
+
+	--Add files and commit
+
+	git add.
+	git commit -m "Initial commit"
+
+--Link to remote repository 
+	#add remote origin
+	git remote add origin
+	https://github.com/username/my-project.git
+
+	#push code to main branch 
+	git branch -M main
+	git push -u origin main
+
+--Push
+
+	git puch origin main
+
+--Pull 
+
+	git pull origin main
+
+--Fetch 
+
+	git fetch origin
+
+--Working with branches
+	
+	--Create and switch branch
+	git branch feature-1               #create a new branch 
+	git checkout feature-1             #switch to that branch
+
+	--Merge branch into main
+	git checkout main                  #switch to main branch 
+	git merge feature-1                #merge feature branch into main
+
+	--delete a branch
+	git branch -d feature-1
+
+
+--Common Commands
+
+	#Check the current status
+	git status
+
+	#View commit history
+	git log
+
+	#List branches
+	git branch
+
+	#Create and switch to new branch
+	git checkout -b new-branch
