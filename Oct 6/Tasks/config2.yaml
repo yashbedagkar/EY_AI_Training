@@ -1,0 +1,7 @@
+app:
+  Portal version: 1.0
+  name: Student
+database:
+  host: localhost
+  port: 3306
+  user: root
