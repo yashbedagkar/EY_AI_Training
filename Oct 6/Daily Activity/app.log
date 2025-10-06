@@ -1,0 +1,4 @@
+2025-10-06 14:33:38,405 - root - INFO - Application started
+2025-10-06 14:33:38,405 - root - WARNING - low memory warning
+2025-10-06 14:33:38,405 - root - ERROR - File not found error
+2025-10-06 14:33:38,405 - root - CRITICAL - critical system failure
