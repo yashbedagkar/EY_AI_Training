@@ -1,0 +1,19 @@
+Average Delivery Time per Warehouse
+WarehouseID,AverageDeliveryDays
+W01,4.5
+W02,5.5
+W03,5.0
+
+Total Shipment Value per Product Category
+Category,TotalShipmentValue
+Accessories,11250
+Electronics,87500
+Networking,18000
+
+Number of Shipments per Month
+Month,ShipmentCount
+2025-10,5
+
+Late Deliveries (DeliveryDays > 5)
+ShipmentID,ProductID,WarehouseID,DeliveryDays
+S005,P105,W02,7
