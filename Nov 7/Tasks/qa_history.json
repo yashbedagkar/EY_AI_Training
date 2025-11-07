@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2025-11-07T05:42:21.339786Z",
+    "model": "mistralai/mistral-7b-instruct",
+    "topic": "Artificial Intelligence",
+    "question": "Explain what agentic AI is in simple terms.",
+    "answer": "Agentic AI refers to artificial intelligence systems that can act autonomously, make decisions, and perform tasks on their behalf, often with a degree of independence. Unlike traditional AI, which typically follows predefined rules or responds to specific inputs, agentic AI can adapt, learn, and take actions to achieve goals, sometimes even without explicit human intervention.\n\nIn simpler terms, agentic AI is like a smart assistant that can think, decide, and act on its own to help you with tasks, solve problems, or achieve objectives, making it more dynamic and proactive.",
+    "latency_sec": 4.622
+  },
+  {
+    "timestamp": "2025-11-07T05:43:23.596184Z",
+    "model": "mistralai/mistral-7b-instruct",
+    "topic": "Physics",
+    "question": "Explain Newton's first law",
+    "answer": "Newton's First Law, also known as the Law of Inertia, states that an object at rest will stay at rest and an object in motion will stay in motion with the same speed and direction, unless acted upon by an external unbalanced force.\n\nThis law is a fundamental principle in physics and is a cornerstone of classical mechanics. It essentially says that an object continues in its state of rest or uniform motion in a straight line, unless it is compelled to change that state by a net force acting on it.\n\nIn other words, if no net force is acting on an object, the object's velocity will remain constant. This is often referred to as \"inertia,\" which is the resistance of any physical object to a change in its state of motion or rest.\n\nThe Law of Inertia can be observed in everyday life in many ways. For example, a car that is at rest will stay at rest until a force (like the engine starting) acts on it to make it move. Once the car is moving, it will continue to move in a straight line until a force (like the brakes or a turn) acts on it to change its motion.\n\nThis law is a simplification of the more complex motion described by Newton's second law, which describes the relationship between force, mass, and acceleration.",
+    "latency_sec": 2.732
+  }
+]
